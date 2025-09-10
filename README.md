@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0027-remove-element) |
+| [1019-squares-of-a-sorted-array](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,4 +39,9 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0027-remove-element) |
+| [1019-squares-of-a-sorted-array](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
