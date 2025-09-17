@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0013-roman-to-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -29,11 +30,13 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0072-edit-distance](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0097-interleaving-string) |
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0062-unique-paths) |
 ## Combinatorics
 |  |
