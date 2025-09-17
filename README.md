@@ -33,6 +33,7 @@
 | [0013-roman-to-integer](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0072-edit-distance](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0097-interleaving-string) |
+| [0742-to-lower-case](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0742-to-lower-case) |
 ## Math
 |  |
 | ------- |
