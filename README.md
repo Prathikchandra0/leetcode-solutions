@@ -12,6 +12,7 @@
 | [0088-merge-sorted-array](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1019-squares-of-a-sorted-array](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
@@ -31,6 +32,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0338-counting-bits) |
 ## String
 |  |
