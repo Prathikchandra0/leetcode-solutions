@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0338-counting-bits) |
 ## String
 |  |
@@ -69,4 +70,8 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
