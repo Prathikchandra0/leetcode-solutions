@@ -50,6 +50,7 @@
 | [0062-unique-paths](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0326-power-of-three) |
 ## Combinatorics
 |  |
 | ------- |
@@ -80,4 +81,5 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
