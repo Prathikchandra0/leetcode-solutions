@@ -23,6 +23,7 @@
 | [0013-roman-to-integer](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0268-missing-number](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | [0231-power-of-two](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## String
 |  |
 | ------- |
@@ -47,6 +49,7 @@
 | [0072-edit-distance](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0097-interleaving-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0389-find-the-difference](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0742-to-lower-case](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0742-to-lower-case) |
 ## Math
 |  |
@@ -75,6 +78,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1019-squares-of-a-sorted-array](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
