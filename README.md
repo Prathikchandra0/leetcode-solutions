@@ -43,6 +43,7 @@
 | [0338-counting-bits](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1610-xor-operation-in-an-array](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/1610-xor-operation-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [0268-missing-number](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0326-power-of-three) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1610-xor-operation-in-an-array](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/1610-xor-operation-in-an-array) |
 ## Combinatorics
 |  |
 | ------- |
