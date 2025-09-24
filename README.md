@@ -16,6 +16,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/1610-xor-operation-in-an-array) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## String
 |  |
 | ------- |
