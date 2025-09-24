@@ -34,6 +34,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0338-counting-bits) |
 ## String
 |  |
@@ -48,6 +49,7 @@
 | [0013-roman-to-integer](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Combinatorics
 |  |
 | ------- |
@@ -74,4 +76,8 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0191-number-of-1-bits) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
