@@ -44,6 +44,7 @@
 | [0389-find-the-difference](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/1610-xor-operation-in-an-array) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## String
 |  |
 | ------- |
