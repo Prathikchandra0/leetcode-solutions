@@ -20,6 +20,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | [0013-roman-to-integer](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0072-edit-distance](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0097-interleaving-string) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0742-to-lower-case](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0742-to-lower-case) |
 ## Math
 |  |
@@ -49,6 +51,7 @@
 | [0013-roman-to-integer](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0066-plus-one) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0326-power-of-three) |
 ## Combinatorics
