@@ -2,7 +2,9 @@ class Solution {
     public int maxVowels(String s, int k) {
         int left  =0;
         int count=0;
-        Set<Character> vowels = new HashSet<>(Arrays.asList('a','e','i','o','u'));
+        //Set<Character> vowels = new HashSet<>(Arrays.asList('a','e','i','o','u'));
+        Set<Character> vowels = Set.of('a','e','i','o','u');
+
 
         for(int i =0 ;i<k; i++){
             if(vowels.contains(s.charAt(i))){
