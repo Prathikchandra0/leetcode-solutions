@@ -63,6 +63,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0389-find-the-difference](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0742-to-lower-case](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0742-to-lower-case) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Math
 |  |
 | ------- |
@@ -117,6 +118,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Prefix Sum
 |  |
