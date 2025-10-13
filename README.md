@@ -15,6 +15,7 @@
 | [0136-single-number](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0268-missing-number) |
@@ -136,4 +137,20 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0169-majority-element) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
