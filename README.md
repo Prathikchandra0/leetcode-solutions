@@ -58,6 +58,7 @@
 | [1839-decode-xored-array](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/1839-decode-xored-array) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## String
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | [0326-power-of-three](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0326-power-of-three) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/1610-xor-operation-in-an-array) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Combinatorics
 |  |
 | ------- |
