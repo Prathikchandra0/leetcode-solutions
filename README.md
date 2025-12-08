@@ -80,6 +80,7 @@
 | [0231-power-of-two](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0326-power-of-three) |
+| [0445-add-two-numbers-ii](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/1610-xor-operation-in-an-array) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -155,4 +156,12 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0200-number-of-islands) |
+## Linked List
+|  |
+| ------- |
+| [0445-add-two-numbers-ii](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
+## Stack
+|  |
+| ------- |
+| [0445-add-two-numbers-ii](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 <!---LeetCode Topics End-->
