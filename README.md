@@ -96,6 +96,7 @@
 | [0088-merge-sorted-array](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1019-squares-of-a-sorted-array](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -160,6 +161,7 @@
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
