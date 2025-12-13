@@ -166,4 +166,8 @@
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
