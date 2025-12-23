@@ -24,6 +24,7 @@
 | [1839-decode-xored-array](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/1839-decode-xored-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Hash Table
@@ -177,4 +178,8 @@
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Greedy
+|  |
+| ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 <!---LeetCode Topics End-->
