@@ -23,6 +23,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1839-decode-xored-array](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/1839-decode-xored-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Hash Table
