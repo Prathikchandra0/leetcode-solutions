@@ -22,6 +22,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1019-squares-of-a-sorted-array](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1839-decode-xored-array](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/1839-decode-xored-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Hash Table
@@ -70,6 +71,7 @@
 | [0389-find-the-difference](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0742-to-lower-case](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0742-to-lower-case) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Math
 |  |
 | ------- |
@@ -170,4 +172,8 @@
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Simulation
+|  |
+| ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
