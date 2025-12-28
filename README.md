@@ -27,6 +27,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2272-substring-with-largest-variance](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/2272-substring-with-largest-variance) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Hash Table
@@ -51,6 +52,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [2272-substring-with-largest-variance](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/2272-substring-with-largest-variance) |
 ## Bit Manipulation
 |  |
 | ------- |
