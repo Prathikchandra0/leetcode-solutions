@@ -21,6 +21,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0268-missing-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1019-squares-of-a-sorted-array](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1839-decode-xored-array](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/1839-decode-xored-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -49,6 +50,7 @@
 | [0120-triangle](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0338-counting-bits) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -125,6 +127,7 @@
 | [0053-maximum-subarray](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0191-number-of-1-bits) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Recursion
 |  |
 | ------- |
@@ -185,4 +188,12 @@
 |  |
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
