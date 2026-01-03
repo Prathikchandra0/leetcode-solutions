@@ -181,6 +181,7 @@
 ## Database
 |  |
 | ------- |
+| [1251-average-selling-price](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/1251-average-selling-price) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 ## Simulation
 |  |
