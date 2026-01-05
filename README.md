@@ -157,6 +157,7 @@
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0112-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
@@ -208,8 +209,10 @@
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0112-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Binary Tree
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0112-path-sum) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 <!---LeetCode Topics End-->
