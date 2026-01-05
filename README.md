@@ -156,10 +156,12 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0200-number-of-islands) |
 ## Union Find
 |  |
@@ -202,4 +204,12 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
