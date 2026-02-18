@@ -218,4 +218,8 @@
 | [0112-path-sum](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/Prathikchandra0/leetcode-solutions/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
